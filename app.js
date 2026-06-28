@@ -1,0 +1,1 @@
+console.log("Tailor Management System Loaded");
